@@ -4,6 +4,8 @@ Este projeto consiste em uma aplicação desktop desenvolvida em C# utilizando W
 
 O sistema permite ao usuário selecionar diferentes configurações de hardware e software, como tipo de computador (PC ou Notebook), processador, memória, armazenamento (HD) e acessórios opcionais. A partir dessas escolhas, o sistema calcula automaticamente o valor total da configuração e exibe um resumo detalhado da compra.
 
+![image alt](https://github.com/ThiagoHAlonso/ProjetoComputadores/blob/main/ParteComputador.png?raw=true)
+
 ## 🚀 Funcionalidades
 
 * Seleção do tipo de computador (PC ou Notebook)
@@ -55,4 +57,4 @@ O sistema altera dinamicamente a imagem exibida conforme o tipo de computador se
 💡 Este projeto também pode ser utilizado como base para estudos na área de Quality Assurance (QA), permitindo a criação de cenários de teste e automação.
 
 
-![image alt](https://github.com/ThiagoHAlonso/ProjetoComputadores/blob/main/ParteComputador.png?raw=true)
+
