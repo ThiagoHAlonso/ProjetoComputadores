@@ -6,6 +6,8 @@ O sistema permite ao usuário selecionar diferentes configurações de hardware 
 
 ![image alt](https://github.com/ThiagoHAlonso/ProjetoComputadores/blob/main/ParteComputador.png?raw=true)
 
+![image alt](https://github.com/ThiagoHAlonso/ProjetoComputadores/blob/main/ParteNotebook.png?raw=true)
+
 ## 🚀 Funcionalidades
 
 * Seleção do tipo de computador (PC ou Notebook)
