@@ -55,4 +55,4 @@ O sistema altera dinamicamente a imagem exibida conforme o tipo de computador se
 💡 Este projeto também pode ser utilizado como base para estudos na área de Quality Assurance (QA), permitindo a criação de cenários de teste e automação.
 
 
-![image alt] (https://github.com/ThiagoHAlonso/ProjetoComputadores/blob/main/ParteComputador.png?raw=true)
+![image alt](https://github.com/ThiagoHAlonso/ProjetoComputadores/blob/main/ParteComputador.png?raw=true)
