@@ -50,7 +50,9 @@ O sistema altera dinamicamente a imagem exibida conforme o tipo de computador se
 * Persistência de dados
 * Interface mais moderna (WPF ou Web)
 
-![image alt] (https://github.com/ThiagoHAlonso/ProjetoComputadores/blob/main/ParteComputador.png?raw=true)
 ---
 
 💡 Este projeto também pode ser utilizado como base para estudos na área de Quality Assurance (QA), permitindo a criação de cenários de teste e automação.
+
+
+![image alt] (https://github.com/ThiagoHAlonso/ProjetoComputadores/blob/main/ParteComputador.png?raw=true)
